@@ -6,6 +6,7 @@ Reads 'data/products.csv', transforms product data, and writes 'data/transformed
 Project Structure:
 LSP_Project/
 ├── src/org/howard/edu/lsp/assignment2/ETLPipeline.java
+
 └── data/
 ├── products.csv
 └── transformed_products.csv
